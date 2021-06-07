@@ -1,0 +1,6 @@
+/Users/katedatema/Projects/Movie_List/Movie_List/bin/Debug/Movie_List.exe
+/Users/katedatema/Projects/Movie_List/Movie_List/bin/Debug/Movie_List.pdb
+/Users/katedatema/Projects/Movie_List/Movie_List/obj/Debug/Movie_List.csprojAssemblyReference.cache
+/Users/katedatema/Projects/Movie_List/Movie_List/obj/Debug/Movie_List.csproj.CoreCompileInputs.cache
+/Users/katedatema/Projects/Movie_List/Movie_List/obj/Debug/Movie_List.exe
+/Users/katedatema/Projects/Movie_List/Movie_List/obj/Debug/Movie_List.pdb

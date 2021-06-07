@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C41F9FAF-EC0B-4DA4-AB7F-D34AF0EA6CDA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Movie__List FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Movie_List/EmptyClass.cs">
+    <Files>
+      <File FileName="Movie_List/Program.cs" Line="3" Column="19" />
+      <File FileName="Movie_List/EmptyClass.cs" Line="6" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Movie_List" expanded="True">
+            <Node name="Movie_List" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
